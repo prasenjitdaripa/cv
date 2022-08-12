@@ -1,0 +1,26 @@
+div{
+    margin: 0;
+}
+h1{
+    color: blueviolet;
+    margin-top: 0;
+}
+p{
+    color: black;
+}
+.top{
+    background-color: #e4f9f5;
+}
+.middle{
+    background-color: red;
+    width: 200px;
+    height: 200px;
+}
+.bottom{
+    background-color: blue;
+     width: 200px;
+    height: 200px;
+}
+.pro{
+    text-decoration: underline;
+}
